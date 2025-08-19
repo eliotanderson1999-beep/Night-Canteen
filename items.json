@@ -1,0 +1,33 @@
+[
+  {
+    "id": 1,
+    "name": "Maggie Noodles",
+    "description": "52gm pack",
+    "price": 12
+  },
+  {
+    "id": 2,
+    "name": "Maggie Noodles",
+    "description": "70gm pack",
+    "price": 17
+  },
+  {
+    "id": 3,
+    "name": "BourBon",
+    "description": "Double-layered chocolate cream biscuits – crunchy outside, creamy inside. Perfect late-night munch.",
+    "price": 35
+  },
+
+  {
+    "id": 4,
+    "name": "Nice Time",
+    "description": "Light, crispy coconut-flavored biscuits with sugar crystals on top. Sweet and simple, ekdum mood fresh.",
+    "price": 15
+  },
+  {
+    "id": 5,
+    "name": "Coffee",
+    "description": "Quick-fix strong coffee sachet – bas garam paani daalo aur jag jao. Budget-friendly caffeine boost.",
+    "price": 3
+  }
+]
